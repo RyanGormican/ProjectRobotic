@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjectRobotic",
+			"Path": "C:\\Users\\Carla\\Documents\\Unreal Projects\\ProjectRobotic\\Source\\ProjectRobotic.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjectRoboticEditor",
+			"Path": "C:\\Users\\Carla\\Documents\\Unreal Projects\\ProjectRobotic\\Source\\ProjectRoboticEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

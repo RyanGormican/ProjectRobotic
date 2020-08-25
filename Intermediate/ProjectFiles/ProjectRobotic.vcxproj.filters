@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectRobotic.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{02D7A801-5804-4B2D-B1E2-F38BAAA645D7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectRobotic.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectRoboticEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A165F5D8-F0AF-4169-8322-F8E18FD3D1EF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectRobotic">
+      <UniqueIdentifier>{2EBD015B-8C84-453B-BA76-15E0E5B05335}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectRobotic\ProjectRobotic.Build.cs">
+      <Filter>Source\ProjectRobotic</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectRobotic\ProjectRobotic.cpp">
+      <Filter>Source\ProjectRobotic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectRobotic\ProjectRobotic.h">
+      <Filter>Source\ProjectRobotic</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectRobotic\ProjectRoboticBlock.cpp">
+      <Filter>Source\ProjectRobotic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectRobotic\ProjectRoboticBlock.h">
+      <Filter>Source\ProjectRobotic</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectRobotic\ProjectRoboticBlockGrid.cpp">
+      <Filter>Source\ProjectRobotic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectRobotic\ProjectRoboticBlockGrid.h">
+      <Filter>Source\ProjectRobotic</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectRobotic\ProjectRoboticGameMode.cpp">
+      <Filter>Source\ProjectRobotic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectRobotic\ProjectRoboticGameMode.h">
+      <Filter>Source\ProjectRobotic</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectRobotic\ProjectRoboticPawn.cpp">
+      <Filter>Source\ProjectRobotic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectRobotic\ProjectRoboticPawn.h">
+      <Filter>Source\ProjectRobotic</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectRobotic\ProjectRoboticPlayerController.cpp">
+      <Filter>Source\ProjectRobotic</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectRobotic\ProjectRoboticPlayerController.h">
+      <Filter>Source\ProjectRobotic</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
